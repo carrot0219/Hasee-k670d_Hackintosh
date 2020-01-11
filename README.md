@@ -51,7 +51,8 @@ BIOS更新至d大最新版
 20/01/11 -- 使用opencore引导，更上时代的潮流
 
  主要是很多最新插件慢慢的直接集成代opencore里了
-         -- 使用VirtualSMC，VirtualSMC传感器太少，有些硬件信息看不见，只能等待更新
+ 
+ -- 使用VirtualSMC，VirtualSMC传感器太少，有些硬件信息看不见，只能等待更新
          
  使用VirtualSMC后，变频直接最大睿频，插适配器一直显示电池问题
 
