@@ -53,13 +53,13 @@
 				<key>F16</key>
 				<string>ALT CMD D</string>
 				<key>F17</key>
-				<string>CTRL DAW</string>
+				<string></string>
 				<key>F18</key>
-				<string>CTRL UAW</string>
+				<string></string>
 				<key>F19</key>
-				<string>CTRL LAW</string>
+				<string></string>
 				<key>F20</key>
-				<string>CTRL RAW</string>
+				<string></string>
 				<key>F21</key>
 				<string></string>
 				<key>F22</key>
@@ -72,42 +72,9 @@
 			<key>Fn Keys Mode 1</key>
 			<dict>
 				<key>BrightnessDown</key>
-				<string>F8</string>
+				<string>F1</string>
 				<key>BrightnessUp</key>
-				<string>F9</string>
-				<key>KBBacklightDown</key>
-				<string> </string>
-				<key>KBBacklightUp</key>
-				<string> </string>
-				<key>Launchpad</key>
-				<string> </string>
-				<key>MediaNext</key>
-				<string> </string>
-				<key>MediaPlayPause</key>
-				<string> </string>
-				<key>MediaPrevious</key>
-				<string> </string>
-				<key>Misson Control</key>
-				<string> </string>
-				<key>SleepDisplay</key>
 				<string>F2</string>
-				<key>Touchpad</key>
-				<string>F1</string>
-				<key>VideoMirror</key>
-				<string> </string>
-				<key>VolumeDown</key>
-				<string>F5</string>
-				<key>VolumeMute</key>
-				<string>F3</string>
-				<key>VolumeUp</key>
-				<string>F6</string>
-			</dict>
-			<key>Fn Keys Mode 2</key>
-			<dict>
-				<key>BrightnessDown</key>
-				<string>F8</string>
-				<key>BrightnessUp</key>
-				<string>F9</string>
 				<key>KBBacklightDown</key>
 				<string>F3</string>
 				<key>KBBacklightUp</key>
@@ -115,21 +82,19 @@
 				<key>Launchpad</key>
 				<string>F4</string>
 				<key>MediaNext</key>
-				<string>ArrowRight</string>
+				<string>F9</string>
 				<key>MediaPlayPause</key>
-				<string>ArrowDown</string>
+				<string>F8</string>
 				<key>MediaPrevious</key>
-				<string>ArrowLeft</string>
+				<string>F7</string>
 				<key>Misson Control</key>
 				<string>F3</string>
 				<key>SleepDisplay</key>
-				<string>F7</string>
-				<key>SystemSleep</key>
-				<string>F1</string>
+				<string>F5</string>
 				<key>Touchpad</key>
-				<string>F9</string>
+				<string>Pause</string>
 				<key>VideoMirror</key>
-				<string>F8</string>
+				<string>F6</string>
 				<key>VolumeDown</key>
 				<string>F11</string>
 				<key>VolumeMute</key>
@@ -137,10 +102,45 @@
 				<key>VolumeUp</key>
 				<string>F12</string>
 			</dict>
+			<key>Fn Keys Mode 2</key>
+			<dict>
+				<key>BrightnessDown</key>
+				<string>F2</string>
+				<key>BrightnessUp</key>
+				<string>F3</string>
+				<key>KBBacklightDown</key>
+				<string></string>
+				<key>KBBacklightUp</key>
+				<string></string>
+				<key>Launchpad</key>
+				<string></string>
+				<key>MediaNext</key>
+				<string>F11</string>
+				<key>MediaPlayPause</key>
+				<string>F10</string>
+				<key>MediaPrevious</key>
+				<string>F9</string>
+				<key>Misson Control</key>
+				<string></string>
+				<key>SleepDisplay</key>
+				<string>F12</string>
+				<key>SystemSleep</key>
+				<string>F1</string>
+				<key>Touchpad</key>
+				<string>F5</string>
+				<key>VideoMirror</key>
+				<string>F4</string>
+				<key>VolumeDown</key>
+				<string>F7</string>
+				<key>VolumeMute</key>
+				<string>F6</string>
+				<key>VolumeUp</key>
+				<string>F8</string>
+			</dict>
 			<key>Fn keys Layout</key>
 			<string>NONE</string>
 			<key>Fn keys Mode</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>IOClass</key>
 			<string>ApplePS2Keyboard</string>
 			<key>IOProviderClass</key>
@@ -150,7 +150,7 @@
 			<key>Preferences</key>
 			<dict>
 				<key>Disable Num Lock LED</key>
-				<true/>
+				<false/>
 				<key>Enable Extended Functions</key>
 				<true/>
 				<key>Enable Sierra Caps Lock Fix</key>
@@ -174,11 +174,11 @@
 				<key>Make right control into key</key>
 				<integer>0</integer>
 				<key>Make shift + caps into Fn key</key>
-				<false/>
+				<true/>
 				<key>Num Lock enabled at boot</key>
 				<true/>
 				<key>Swap alt and windows key</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
