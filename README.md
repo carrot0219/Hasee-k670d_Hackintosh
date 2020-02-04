@@ -7,7 +7,7 @@
 ## #电脑配置
 
 - 型号：神舟K67D G4D1
-- 操作系统：macOS Mojave 10.14.6
+- 操作系统：macOS Catalina 10.15.3
 - 处理器：**8700es QN8H**
 - 硬盘：**Samsung PM961**
 - 显卡：英特尔 HD Graphics 630
@@ -55,26 +55,20 @@ BIOS中关闭CFG锁
 
    主要是很多最新插件慢慢的直接集成代opencore里了
  
- -- 使用VirtualSMC，VirtualSMC传感器太少，有些硬件信息看不见，只能等待更新
-         
-   使用VirtualSMC后，变频直接最大睿频，插适配器一直显示电池问题
+ -- 使用opencore引导，变频直接最大睿频，插适配器一直显示电池问题
 
 
 ## #截图
 
-![屏幕快照 2019-08-11 下午2.39.08.png](https://i.loli.net/2019/08/11/XgNRULoIcfCTadM.png)
+![截屏2020-02-04上午9.07.39.png](https://i.loli.net/2020/02/04/7SeCcnwBrDTkb5j.png)
 
-![屏幕快照 2019-08-11 下午2.38.18.png](https://i.loli.net/2019/08/11/CcYInzXKTMl2hVk.png)
+![截屏2020-02-04上午9.08.56.png](https://i.loli.net/2020/02/04/892XnIDEr7hWT6F.png)
 
-![屏幕快照 2019-08-11 下午2.40.17.png](https://i.loli.net/2019/08/11/jRve6OsxZHBk5In.png)
+![截屏2020-02-04上午9.11.11.png](https://i.loli.net/2020/02/04/myTcfS2EUpGhsiB.png)
 
-![屏幕快照 2019-08-11 下午2.38.57.png](https://i.loli.net/2019/08/11/Q9hu81IrqUZgWXT.png)
+![截屏2020-02-04上午9.08.42.png](https://i.loli.net/2020/02/04/bfHSxzTaO5DJmpe.png)
 
-![屏幕快照 2019-08-11 下午2.39.50.png](https://i.loli.net/2019/08/11/R91kbMCSPz3lecT.png)
-
-![屏幕快照 2019-08-11 下午2.42.28.png](https://i.loli.net/2019/08/11/OylWtVYCs285Nx9.png)
-
-![WechatIMG2.jpeg](https://i.loli.net/2019/08/11/beJMiZBYrhpv9Od.jpg)
+![WechatIMG2.jpeg](https://i.loli.net/2020/02/04/TXJlkZHRBS1thsU.jpg)
 
 ## #其他
 
