@@ -62,6 +62,8 @@ BIOS中关闭CFG锁
 
 ![截屏2020-02-04上午9.07.39.png](https://i.loli.net/2020/02/04/7SeCcnwBrDTkb5j.png)
 
+![截屏2020-02-04上午9.15.56.png](https://i.loli.net/2020/02/04/NLMEYUg2Sdc6D18.png)
+
 ![截屏2020-02-04上午9.08.56.png](https://i.loli.net/2020/02/04/892XnIDEr7hWT6F.png)
 
 ![截屏2020-02-04上午9.11.11.png](https://i.loli.net/2020/02/04/myTcfS2EUpGhsiB.png)
