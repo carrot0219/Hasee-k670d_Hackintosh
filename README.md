@@ -10,8 +10,6 @@
 - 声卡：Realtek ALC269VC (0x0269)
 - 网卡：**Bcm94352z**
 
-维护地址：http://bbs.pcbeta.com/viewthread-1842304-1-1.html
-
 **加粗部分表示更换过配件**
 
 BIOS更新至d大最新
